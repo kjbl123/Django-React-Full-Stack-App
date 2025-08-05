@@ -6,11 +6,3 @@ endpoints:
     type: REST
     networkVisibility: Public
     context: /
-
-configs:
-  - name: DEBUG
-    value: "False"
-
-secrets:
-  - name: DJANGO_SECRET_KEY
-    value: "django-insecure-nma=xi6x2p-crjg^ifqqkapyu1qjd0l=+wn)-rijk_o%$!k3w_"
